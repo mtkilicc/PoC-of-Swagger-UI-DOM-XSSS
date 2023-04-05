@@ -1,0 +1,7 @@
+{
+    "url": "https://raw.githubusercontent.com/mtkilicc/PoC-of-Swagger-UI-DOM-XSSS/main/test.yaml",
+    "urls": [{
+        "url": "https://raw.githubusercontent.com/mtkilicc/PoC-of-Swagger-UI-DOM-XSSS/main/test.yaml",
+        "name": "Foo"
+    }]
+}
