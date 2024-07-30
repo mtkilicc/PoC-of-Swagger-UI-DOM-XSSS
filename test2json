@@ -52,7 +52,7 @@
                     {
                         "name": "petId",
                         "in": "path",
-                        "description": "|\u003cimg onerror=alert('textarea') src=1\u003eaaaa",
+                        "description": "|\u003cimg onerror=alert('textarea') src=1\u003e![XSS](data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K)\\",
                         "required": true,
                         "type": "integer",
                         "format": "int64"
