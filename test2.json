@@ -3,5 +3,8 @@
     "urls": [{
         "url": "https://raw.githubusercontent.com/mtkilicc/PoC-of-Swagger-UI-DOM-XSSS/refs/heads/main/test2.yaml",
         "name": "Foo"
-    }]
+    },{
+        "url": "https://raw.githubusercontent.com/mtkilicc/PoC-of-Swagger-UI-DOM-XSSS/main/test2.yaml",
+        "name": "Foo2"
+}]
 }
